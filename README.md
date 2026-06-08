@@ -28,11 +28,9 @@ Mở file bằng **IDA Pro** và tìm kiếm các chuỗi liên quan đến Pass
 
 ### Ảnh minh họa
 
-```markdown
 <img width="902" height="141" alt="image" src="https://github.com/user-attachments/assets/7fda952c-a271-49c3-8099-a953945fab3a" />
 
 <img width="975" height="285" alt="image" src="https://github.com/user-attachments/assets/6d7dd02c-e1d1-4970-9064-10bbf3265ee5" />
-```
 
 Ta thấy các chuỗi:
 
@@ -49,10 +47,7 @@ Ta thấy các chuỗi:
 
 ### Ảnh minh họa
 
-```markdown
 <img width="975" height="268" alt="image" src="https://github.com/user-attachments/assets/4cf3d611-c9ae-4c3a-ba2b-25a42cc0462c" />
-
-```
 
 Trong đoạn mã có các điều kiện:
 
