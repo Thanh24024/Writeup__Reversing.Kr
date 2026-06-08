@@ -86,12 +86,9 @@ Tiếp tục kiểm tra giá trị của:
 
 ### Ảnh minh họa
 
-```markdown
 <img width="667" height="45" alt="image" src="https://github.com/user-attachments/assets/e015ada5-c509-4dad-a8d1-941bebcfa825" />
 <img width="752" height="31" alt="image" src="https://github.com/user-attachments/assets/a0d64218-a95d-4567-854e-430da9e68aa0" />
 
-
-```
 
 Ta thu được:
 
@@ -116,10 +113,7 @@ Ea5yR3versing
 
 ### Kết quả
 
-```markdown
 <img width="853" height="271" alt="image" src="https://github.com/user-attachments/assets/ee447ad3-8fe4-4bc1-9e2a-a94af530cbc0" />
-
-```
 
 ---
 
@@ -141,10 +135,8 @@ Mở file bằng IDA và tìm hàm `main`.
 
 ### Ảnh minh họa
 
-```markdown
 <img width="925" height="972" alt="image" src="https://github.com/user-attachments/assets/07c20aa9-91d0-4e8a-b576-ad1235df3280" />
 
-```
 
 Chương trình:
 
@@ -242,10 +234,8 @@ Mở file ELF bằng IDA và xem hàm `main`.
 
 ### Ảnh minh họa
 
-```markdown
 <img width="588" height="291" alt="image" src="https://github.com/user-attachments/assets/e85b8596-06b8-4688-abb2-fa36c6d6fa00" />
 
-```
 
 Ta thấy 3 hàm đáng chú ý:
 
@@ -263,10 +253,8 @@ sub_80484F7
 
 Đọc dữ liệu đầu vào.
 
-```markdown
 <img width="614" height="106" alt="image" src="https://github.com/user-attachments/assets/7656a092-c8dc-494d-9b5f-5ba892b54762" />
 
-```
 
 ### sub_80484F7
 
@@ -276,10 +264,8 @@ In ra:
 Correct!
 ```
 
-```markdown
 <img width="458" height="111" alt="image" src="https://github.com/user-attachments/assets/d5ac6d67-63ea-40e2-b38f-b20b45d359fc" />
 
-```
 
 ### sub_8048451
 
@@ -357,10 +343,8 @@ Dùng Detect It Easy.
 
 ### Ảnh minh họa
 
-```markdown
 <img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/9a8cef99-5581-41a5-ad68-5ee8a68ffd5f" />
 
-```
 
 Kết quả:
 
@@ -382,10 +366,7 @@ Trong IDA:
 
 ### Ảnh minh họa
 
-```markdown
 <img width="921" height="384" alt="image" src="https://github.com/user-attachments/assets/24b7a2f2-30c1-4bcc-a164-3113ac64ca9d" />
-
-```
 
 ---
 
@@ -426,10 +407,8 @@ F7 (Step Into)
 
 ### Ảnh minh họa
 
-```markdown
 <img width="921" height="384" alt="image" src="https://github.com/user-attachments/assets/18022ba4-1c6f-4120-bfb0-5c1db78f1042" />
 
-```
 
 Sau khi nhảy vào:
 
@@ -500,10 +479,8 @@ sub_401130
 
 ### Ảnh minh họa
 
-```markdown
 <img width="945" height="384" alt="image" src="https://github.com/user-attachments/assets/fef62a07-d57a-41c1-beda-f244c6b977ba" />
 
-```
 
 Chương trình:
 
@@ -598,10 +575,8 @@ của file BMP.
 
 ### Ảnh minh họa
 
-```markdown
 <img width="670" height="169" alt="image" src="https://github.com/user-attachments/assets/578c05e2-0c85-43bc-8e0f-1f76915ab744" />
 
-```
 
 ---
 
@@ -609,10 +584,8 @@ của file BMP.
 
 ### Ảnh minh họa
 
-```markdown
 <img width="670" height="169" alt="image" src="https://github.com/user-attachments/assets/1b3cb50f-be10-42d0-a24d-841f77b262b4" />
 
-```
 
 Kết quả thu được:
 
